@@ -10,3 +10,4 @@
 
 ![Screenshot 1](https://i.imgur.com/sONkMWE.png)
 
+Thanks to dscalzi for his awesome work with https://github.com/dscalzi/HeliosLauncher!
